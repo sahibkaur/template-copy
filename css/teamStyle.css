@@ -4,7 +4,7 @@
 	font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 body{
-	background-image: url("https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?ixlib=rb-1.2.1");
+	background-image: url("../images/background.jpg"); /*Photo by Mads Schmidt Rasmussen on Unsplash*/
 	width:100vw;
 	height:100vh;
 	background-size: cover;
@@ -110,16 +110,16 @@ h1{
 }
 
 .one{
-	background-image: url("https://images.unsplash.com/photo-1485202529130-87b1b5f112e8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9");
+	background-image: url("../images/card1.jpg"); /*Photo by Alex Iby on Unsplash*/
 }
 .two{
-	background-image: url("https://images.unsplash.com/photo-1535929792679-d0e62900d4e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9");
+	background-image: url("../images/card2.jpg"); /*Photo by Amaris Diaz on Unsplash*/
 }
 .three{
-	background-image: url("https://images.unsplash.com/photo-1536795247995-0576c1de8ddd?ixlib=rb-1.2.1");
+	background-image: url("../images/card3.jpg"); /*Photo by Chase Fade on Unsplash*/
 }
 .four{
-	background-image: url("https://images.unsplash.com/photo-1522637954682-27f2cdff9bd7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9");
+	background-image: url("../images/card4.jpg");
 }
 .phone-no{
 	margin-top:10px;
